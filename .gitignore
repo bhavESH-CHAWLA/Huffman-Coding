@@ -1,0 +1,60 @@
+# Dependency directories
+node_modules/
+.pnpm
+
+# Build output
+/dist/
+/build/
+/.next/
+/out/
+/coverage/
+/.svelte-kit
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+pnpm-debug.log*
+*.log
+
+# Environment files
+.env
+.env.local
+.env.*.local
+
+# Editor directories and files
+.vscode/
+.idea/
+*.swp
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Python artifacts
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg-info/
+.eggs/
+.mypy_cache/
+.pytest_cache/
+.coverage
+htmlcov/
+
+env/
+venv/
+.venv/
+
+# Packaging
+build/
+dist/
+*.egg
+MANIFEST
+
+# Project runtime data
+/uploads/
+/compressed/
+*.huff
+node_modules
