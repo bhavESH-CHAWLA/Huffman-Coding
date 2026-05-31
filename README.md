@@ -1,4 +1,4 @@
-# ADSA PROJECT — Huffman File Compression & Visualization
+# Inhouse Summer Training — Huffman File Compression & Visualization
 
 A visually interactive web application demonstrating Huffman Coding algorithm for file compression and decompression with beautiful educational visualizations.
 
@@ -39,7 +39,7 @@ A visually interactive web application demonstrating Huffman Coding algorithm fo
 ### 1. Clone the Repository
 ```bash
 git clone <repository-url>
-cd adsa-huffman-compression
+cd inhouse-summer-training-huffman-compression
 ```
 
 ### 2. Install Dependencies
@@ -132,7 +132,7 @@ The Huffman coding algorithm is implemented with:
 ##  Project Structure
 
 ```
-adsa-huffman-compression/
+inhouse-summer-training-huffman-compression/
 ├── src/                    # React frontend
 │   ├── components/         # React components
 │   │   ├── FileUpload.jsx
@@ -170,13 +170,15 @@ This project serves as an excellent educational tool for:
 
 ##  🤝 Contributing
 
-This project was developed as part of the ADSA (Algorithm Design and Analysis) curriculum. Contributions for educational enhancements are welcome!
+This project was developed as part of the Inhouse Summer Training program. Contributions for educational enhancements are welcome!
 
 ## 📄 License
 
-Educational Use - ADSA Project
+Educational Use - Inhouse Summer Training
 
 ##  👨‍💻 Developers
+
+**Project Developed by: Bhavesh Chawla**
 
 - Algorithm Implementation: Huffman Coding
 - Frontend Development: React.js with modern UI/UX
@@ -185,4 +187,4 @@ Educational Use - ADSA Project
 
 ---
 
-**ADSA PROJECT** - Demonstrating the power of algorithmic thinking through beautiful visualizations. 
+**Inhouse Summer Training** - Demonstrating the power of algorithmic thinking through beautiful visualizations. 

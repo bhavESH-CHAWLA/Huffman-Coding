@@ -1,0 +1,69 @@
+The quick brown fox jumps over the lazy dog. This is a test file for Huffman compression.
+The quick brown fox jumps over the lazy dog. This is a test file for Huffman compression.
+The quick brown fox jumps over the lazy dog. This is a test file for Huffman compression.
+The quick brown fox jumps over the lazy dog. This is a test file for Huffman compression.
+The quick brown fox jumps over the lazy dog. This is a test file for Huffman compression.
+The quick brown fox jumps over the lazy dog. This is a test file for Huffman compression.
+The quick brown fox jumps over the lazy dog. This is a test file for Huffman compression.
+The quick brown fox jumps over the lazy dog. This is a test file for Huffman compression.
+The quick brown fox jumps over the lazy dog. This is a test file for Huffman compression.
+The quick brown fox jumps over the lazy dog. This is a test file for Huffman compression.
+
+Huffman coding is a compression algorithm that uses variable-length codes for different characters.
+Huffman coding is a compression algorithm that uses variable-length codes for different characters.
+Huffman coding is a compression algorithm that uses variable-length codes for different characters.
+Huffman coding is a compression algorithm that uses variable-length codes for different characters.
+Huffman coding is a compression algorithm that uses variable-length codes for different characters.
+Huffman coding is a compression algorithm that uses variable-length codes for different characters.
+Huffman coding is a compression algorithm that uses variable-length codes for different characters.
+Huffman coding is a compression algorithm that uses variable-length codes for different characters.
+Huffman coding is a compression algorithm that uses variable-length codes for different characters.
+Huffman coding is a compression algorithm that uses variable-length codes for different characters.
+
+AAAA BBBB CCCC DDDD EEEE FFFF GGGG HHHH IIII JJJJ KKKK LLLL MMMM NNNN OOOO PPPP
+AAAA BBBB CCCC DDDD EEEE FFFF GGGG HHHH IIII JJJJ KKKK LLLL MMMM NNNN OOOO PPPP
+AAAA BBBB CCCC DDDD EEEE FFFF GGGG HHHH IIII JJJJ KKKK LLLL MMMM NNNN OOOO PPPP
+AAAA BBBB CCCC DDDD EEEE FFFF GGGG HHHH IIII JJJJ KKKK LLLL MMMM NNNN OOOO PPPP
+AAAA BBBB CCCC DDDD EEEE FFFF GGGG HHHH IIII JJJJ KKKK LLLL MMMM NNNN OOOO PPPP
+AAAA BBBB CCCC DDDD EEEE FFFF GGGG HHHH IIII JJJJ KKKK LLLL MMMM NNNN OOOO PPPP
+AAAA BBBB CCCC DDDD EEEE FFFF GGGG HHHH IIII JJJJ KKKK LLLL MMMM NNNN OOOO PPPP
+AAAA BBBB CCCC DDDD EEEE FFFF GGGG HHHH IIII JJJJ KKKK LLLL MMMM NNNN OOOO PPPP
+AAAA BBBB CCCC DDDD EEEE FFFF GGGG HHHH IIII JJJJ KKKK LLLL MMMM NNNN OOOO PPPP
+AAAA BBBB CCCC DDDD EEEE FFFF GGGG HHHH IIII JJJJ KKKK LLLL MMMM NNNN OOOO PPPP
+
+The test file contains repeated patterns and structured text.
+The test file contains repeated patterns and structured text.
+The test file contains repeated patterns and structured text.
+The test file contains repeated patterns and structured text.
+The test file contains repeated patterns and structured text.
+The test file contains repeated patterns and structured text.
+The test file contains repeated patterns and structured text.
+The test file contains repeated patterns and structured text.
+The test file contains repeated patterns and structured text.
+The test file contains repeated patterns and structured text.
+The test file contains repeated patterns and structured text.
+The test file contains repeated patterns and structured text.
+The test file contains repeated patterns and structured text.
+The test file contains repeated patterns and structured text.
+The test file contains repeated patterns and structured text.
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.

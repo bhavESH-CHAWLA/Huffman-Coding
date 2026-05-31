@@ -44,7 +44,7 @@ function App() {
         transition={{ duration: 0.6 }}
         className="text-3xl font-bold text-center py-6 bg-gradient-to-r from-blue-600 to-indigo-600 text-white shadow-2xl"
       >
-        ADSA PROJECT — Huffman File Compression & Visualization
+        Inhouse Summer Training — Huffman File Compression & Visualization
       </motion.header>
 
       {/* Main Content */}
@@ -159,7 +159,8 @@ function App() {
           transition={{ delay: 0.8 }}
           className="text-center mt-8 text-white/60"
         >
-          <p>ADSA Project — Huffman Coding Implementation | Algorithm Design and Analysis</p>
+          <p>Inhouse Summer Training — Huffman Coding Implementation | Algorithm Design and Analysis</p>
+          <p className="text-sm mt-2">Developed by Bhavesh Chawla</p>
         </motion.footer>
       </div>
     </div>

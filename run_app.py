@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-ADSA Huffman Compression & Visualization Application
+Inhouse Summer Training Huffman Compression & Visualization Application
 Startup script for both frontend and backend
 """
 
@@ -73,7 +73,7 @@ def start_frontend():
 def main():
     """Main application startup function"""
     print("=" * 60)
-    print("🎯 ADSA PROJECT — Huffman File Compression & Visualization")
+    print("🎯 Inhouse Summer Training — Huffman File Compression & Visualization")
     print("=" * 60)
     
     # Check dependencies

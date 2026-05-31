@@ -155,7 +155,7 @@ def internal_error(e):
     return jsonify({'error': 'Internal server error'}), 500
 
 if __name__ == '__main__':
-    print("🚀 ADSA Huffman Compression Server Starting...")
+    print("🚀 Inhouse Summer Training Huffman Compression Server Starting...")
     print("📊 Server will run on http://localhost:5000")
     print("🔗 React frontend should connect to this backend")
     print("⚡ Make sure to install dependencies: pip install -r requirements.txt")

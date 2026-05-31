@@ -1,7 +1,7 @@
 {
-  "name": "adsa-huffman-compression",
+  "name": "inhouse-summer-training-huffman-compression",
   "version": "1.0.0",
-  "description": "ADSA PROJECT — Huffman File Compression & Visualization",
+  "description": "Inhouse Summer Training — Huffman File Compression & Visualization",
   "type": "module",
   "scripts": {
     "dev": "vite",
