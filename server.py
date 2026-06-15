@@ -146,6 +146,16 @@ def download_compressed_file(file_id):
         app.logger.error(f'Download error: {str(e)}')
         return jsonify({'error': f'Download failed: {str(e)}'}), 500
 
+@app.route('/', methods=['GET'])
+def home():
+    return jsonify({
+        'message': 'Huffman Coding API is running',
+        'status': 'success',
+        'health_check': '/api/health',
+        'compress_endpoint': '/api/compress',
+        'decompress_endpoint': '/api/decompress'
+    })
+
 @app.errorhandler(413)
 def too_large(e):
     return jsonify({'error': 'File too large. Maximum size is 10MB.'}), 413
@@ -155,9 +165,13 @@ def internal_error(e):
     return jsonify({'error': 'Internal server error'}), 500
 
 if __name__ == '__main__':
-    print("🚀 Inhouse Summer Training Huffman Compression Server Starting...")
-    print("📊 Server will run on http://localhost:5000")
-    print("🔗 React frontend should connect to this backend")
-    print("⚡ Make sure to install dependencies: pip install -r requirements.txt")
-    
-    app.run(debug=True, host='0.0.0.0', port=5000)
+    port = int(os.environ.get('PORT', 5000))
+
+    print("🚀 Huffman Compression Server Starting...")
+    print(f"🌐 Running on port {port}")
+
+    app.run(
+        host='0.0.0.0',
+        port=port,
+        debug=False
+    )
