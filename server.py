@@ -146,15 +146,9 @@ def download_compressed_file(file_id):
         app.logger.error(f'Download error: {str(e)}')
         return jsonify({'error': f'Download failed: {str(e)}'}), 500
 
-@app.route('/', methods=['GET'])
+@app.route('/')
 def home():
-    return jsonify({
-        'message': 'Huffman Coding API is running',
-        'status': 'success',
-        'health_check': '/api/health',
-        'compress_endpoint': '/api/compress',
-        'decompress_endpoint': '/api/decompress'
-    })
+    return "Huffman Coding API Running"
 
 @app.errorhandler(413)
 def too_large(e):
